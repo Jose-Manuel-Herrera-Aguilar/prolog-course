@@ -56,3 +56,7 @@ graph TD
     M[Maria] --> Z[Lili]
     L[Rosario] --> O[Julio]
     M[Maria] --> O[Julio]
+````
+# Primeros 30 programas de Prolog
+
+## Video de ejecución de los 30 programas de Prolog
