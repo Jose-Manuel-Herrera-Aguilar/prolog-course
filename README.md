@@ -60,3 +60,4 @@ graph TD
 # Primeros 30 programas de Prolog
 
 ## Video de ejecución de los 30 programas de Prolog
+[![asciicast](https://asciinema.org/a/683443.svg)](https://asciinema.org/a/683443)
