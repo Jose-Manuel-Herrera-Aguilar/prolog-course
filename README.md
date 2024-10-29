@@ -61,3 +61,6 @@ graph TD
 
 ## Video de ejecución de los 30 programas de Prolog
 [![asciicast](https://asciinema.org/a/683443.svg)](https://asciinema.org/a/683443)
+
+## Video de ejecución de los 20 programas de Prolog Restantes
+[![asciicast](https://asciinema.org/a/685712.svg)](https://asciinema.org/a/685712)
